@@ -1,4 +1,3 @@
-<img src="./dark.svg" width="100%" alt="Arman Rahman Rafi — Full-Stack Developer and CTO at Amid Venture">
 <img src="./dark.svg" width="100%" alt="Arman Rahman Rafi — Full-Stack Developer and CTO at Amid Venture. CSE student at KUET, Bangladesh.">
 
 <p align="center">
